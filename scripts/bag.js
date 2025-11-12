@@ -1,6 +1,8 @@
+
 const CONVENIENCE_FEES = 99;
 let bagItemObjects;
-onLoad();
+
+window.onload = onLoad;
 
 function onLoad() {
   loadBagItemObjects();

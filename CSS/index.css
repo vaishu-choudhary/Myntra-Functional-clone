@@ -99,7 +99,13 @@ header {
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #b6b1b1;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
 }
+
 .myntra_home {
     height: 45px;
 }
@@ -308,7 +314,7 @@ header {
     cursor: pointer;
 
 }
-/* .bag-item-count {
+.bag-item-count {
     background-color: #f16565;
     white-space: nowrap;
     text-align: center;
@@ -329,4 +335,4 @@ header {
 }
 a.action_container:link {
     color:black;
-} */
+}
