@@ -77,7 +77,8 @@ It includes dynamic product listing, add-to-bag functionality, cart page, and da
 ---
 
 ## 📸 Screenshots (optional)
-_Add UI screenshots here once ready_
+<img width="960" height="450" alt="image" src="https://github.com/user-attachments/assets/aaf15b7c-3611-459c-97e1-2992e0010fe8" />
+
 
 ---
 
